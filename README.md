@@ -56,7 +56,7 @@ Building scalable systems at the intersection of **distributed systems, computer
 
 ## 🏆 Achievements
 
-- **GATE CSE 2025:** 
+- **GATE CSE 2025: 98.4 Percentile** 
 - M.Tech CSE @ IIIT Delhi
 - Former Software Development Engineer Intern @ Cirrus
 
